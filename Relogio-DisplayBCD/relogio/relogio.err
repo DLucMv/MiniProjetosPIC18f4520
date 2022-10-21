@@ -1,0 +1,2 @@
+Warning[2068] C:\Users\lucas\Meu Drive\IFCE\IFCE-Graduação2021.1-EngComp\Disciplinas\Mcontroladores e Mprocessadores\Lista02\relogio\relogio.c 184 : obsolete use of implicit 'int' detected
+Warning[2103] C:\Users\lucas\Meu Drive\IFCE\IFCE-Graduação2021.1-EngComp\Disciplinas\Mcontroladores e Mprocessadores\Lista02\relogio\relogio.c 184 : default startup code expects main function declared as 'void main (void)'

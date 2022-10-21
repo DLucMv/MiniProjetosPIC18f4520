@@ -1,0 +1,2 @@
+Warning[2068] C:\Users\Alunos\Desktop\Lista02\dotmatrix8x8\dotMatrix8x8.c 114 : obsolete use of implicit 'int' detected
+Warning[2103] C:\Users\Alunos\Desktop\Lista02\dotmatrix8x8\dotMatrix8x8.c 114 : default startup code expects main function declared as 'void main (void)'

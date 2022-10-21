@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+RX::LATCbits.LATC1	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	10;"	d	line:10	file:
+TX::LATCbits.LATC0	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	9;"	d	line:9	file:
+delay_ms	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	13;"	p	line:13	file:	signature:(int)
+delay_ms	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	30;"	f	line:30	signature:(int ms)
+delay_s	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	14;"	p	line:14	file:	signature:(int)
+delay_s	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	20;"	f	line:20	signature:(int s)
+delay_us	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	15;"	p	line:15	file:	signature:(int)
+delay_us	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	40;"	f	line:40	signature:(int us)
+enviar	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	16;"	p	line:16	file:	signature:(char)
+enviar	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	50;"	f	line:50	signature:(char c)
+flag	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	66;"	l	line:66
+i	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	22;"	l	line:22
+i	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	33;"	l	line:33
+i	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	43;"	l	line:43
+i	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	52;"	l	line:52
+main	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	76;"	f	line:76
+receber	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	17;"	p	line:17	file:	signature:(int)
+receber	C:\Users\Alunos\Desktop\Lista02\uart1200\uart1200.c	65;"	f	line:65	signature:(int r)
